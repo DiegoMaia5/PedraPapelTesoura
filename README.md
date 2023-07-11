@@ -1,1 +1,1 @@
-# Jogo Pedra, papel, tesoura em Python.
+# Jogo pedra, papel, tesoura em Python.
